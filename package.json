@@ -1,0 +1,14 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "for modre information code to https://adventofcode.com/.",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
+}
